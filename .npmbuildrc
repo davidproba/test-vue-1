@@ -1,0 +1,11 @@
+{
+	"liferayDir": "/home/lf-dev72/Bundles/liferay-dxp-7.2.10.1-sp1",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\/.*\\.js$",
+				"use": "babel-loader"
+			}
+		]
+	}
+}
